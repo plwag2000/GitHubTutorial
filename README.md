@@ -1,2 +1,2 @@
 # GitHubTutorial
-This is my Github Tutorail for reference in future
+This is my Github Tutorial for reference in future
